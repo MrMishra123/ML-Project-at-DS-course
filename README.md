@@ -8,8 +8,7 @@ In this project we will have to put ourself in the shoes of a loan issuer and ma
 The data should be divided into train (June 2007 - May 2015) and out-of-time test (June 2015 - Dec 2015) data. We will have to use the training data to build models/analytical solution and finally apply it to test data to measure the performance and robustness of the models. 
 
 ## Objective 
-You have to build a data model to predict the probability of default, and choose a cut-off based on what you feel is suitable. Alternatively you can also use a modelling technique which gives binary output.
-You have to do the following:
+We have to build a data model to predict the probability of default, and choose a cut-off based on what we feel is suitable. Alternatively we can also use a modelling technique which gives binary output. We have to do the following:
 
 Based on the data that is available during loan application, build a model to predict default in the future. This will help the company in deciding whether or not to pass the loan.
 
